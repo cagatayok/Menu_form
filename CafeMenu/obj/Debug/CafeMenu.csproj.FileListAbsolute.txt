@@ -1,0 +1,11 @@
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\bin\Debug\CafeMenu.exe.config
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\bin\Debug\CafeMenu.exe
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\bin\Debug\CafeMenu.pdb
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.csproj.AssemblyReference.cache
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.Form1.resources
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.Properties.Resources.resources
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.csproj.GenerateResource.cache
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.csproj.CoreCompileInputs.cache
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.exe
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.pdb
+C:\Users\Cagatay.ok\Desktop\formula1\CafeMenu\obj\Debug\CafeMenu.Form2.resources

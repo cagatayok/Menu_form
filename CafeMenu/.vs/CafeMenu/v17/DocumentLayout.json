@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|solutionrelative:forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|solutionrelative:forms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|c:\\users\\cagatay.ok\\desktop\\formula1\\cafemenu\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A09F30-F08B-4058-B4E7-3CE5239209DD}|CafeMenu.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form2.cs",
+              "RelativeDocumentMoniker": "Forms\\Form2.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form2.cs",
+              "RelativeToolTip": "Forms\\Form2.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwIMAAADnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:37:24.062Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form1.cs",
+              "RelativeToolTip": "Forms\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:07:15.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form2.cs",
+              "RelativeDocumentMoniker": "Forms\\Form2.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form2.cs [Design]",
+              "RelativeToolTip": "Forms\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T15:23:38.733Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cagatay.ok\\Desktop\\formula1\\CafeMenu\\Forms\\Form1.cs [Design]",
+              "RelativeToolTip": "Forms\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T21:36:56.253Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
